@@ -28,4 +28,30 @@ Software developers use a variety of different coding languages to create their 
 
 ___ 
 
+## Standard Education
+### University of Waterloo (Computer Science)
+<img src="https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/images/cheriton-school-computer-science.jpg" width="650" height="400">
+
+### Entrance Requirements
+* 6 Grade 12 U and/or M courses including…
+    * Advanced Functions
+    * Calculus and Vectors
+    * Any Grade 12 U English
+    * One other 4U course (Recommended: Grade 11 U Introduction to Computer Science)
+
+### First Year Programs 
+* CS 135 (Designing Functional Programs)
+* MATH 135 (Algebra for Honors Mathematics)
+* MATH 137 (Calculus 1 for Honors Mathematics)
+* CS 136 (Elementary Algorithm Design and Data Abstraction)
+* CS 136L (Tools and Techniques for Software Development)
+* MATH 136 (Linear Algebra 1 for Honors Mathematics)
+* MATH 138  (Calculus 2 for Honors Mathematics)
+* One communication skills course
+* 3 electives
+
+To obtain your degree, it takes roughly 5 years. If you choose to do the Co-op program, it is two years of paid work and experience. 
+
+
+
 
